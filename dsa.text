@@ -1,0 +1,399 @@
+6-Month DSA Mastery Roadmap for Java Beginners
+Month 1: Java Fundamentals & Basic Problem Solving
+Week 1-2: Core Java Essentials
+Goal: Build solid Java foundation
+
+Variables, Data Types, Operators
+
+Primitive types (int, long, double, boolean, char)
+Type conversion and casting
+Arithmetic, logical, and bitwise operators
+
+
+Control Structures
+
+if-else, switch statements
+for, while, do-while loops
+break and continue
+
+
+Methods and Functions
+
+Method declaration, parameters, return types
+Method overloading
+Static vs instance methods
+
+
+
+Daily Practice: 2-3 basic coding problems on HackerRank/CodeChef
+Week 3-4: Object-Oriented Programming & Collections
+Goal: Master Java collections for DSA
+
+OOP Concepts
+
+Classes, objects, constructors
+Inheritance, polymorphism, encapsulation
+Abstract classes and interfaces
+
+
+Essential Collections
+
+ArrayList, LinkedList
+HashMap, HashSet, TreeMap, TreeSet
+Stack, Queue, PriorityQueue
+When to use each collection
+
+
+
+Practice: Implement basic operations with each collection type
+
+Month 2: Arrays, Strings & Basic Algorithms
+Week 1: Arrays Mastery
+Topics to Cover:
+
+Array declaration, initialization, traversal
+Two-pointer technique
+Sliding window approach
+Prefix sum arrays
+
+Key Problems (15-20 problems):
+
+Two Sum, Three Sum
+Maximum Subarray (Kadane's Algorithm)
+Rotate Array
+Remove Duplicates from Sorted Array
+Best Time to Buy and Sell Stock
+
+Week 2: String Manipulation
+Topics to Cover:
+
+String vs StringBuilder vs StringBuffer
+Character arrays and string conversion
+Pattern matching basics
+
+Key Problems (15-20 problems):
+
+Valid Anagram
+Longest Substring Without Repeating Characters
+Valid Parentheses
+Reverse String
+String to Integer (atoi)
+
+Week 3-4: Sorting & Searching
+Sorting Algorithms:
+
+Bubble Sort, Selection Sort, Insertion Sort
+Merge Sort, Quick Sort
+Time/Space complexity analysis
+
+Searching Algorithms:
+
+Linear Search, Binary Search
+Binary Search variations (first/last occurrence)
+
+Practice: Implement all algorithms from scratch, solve 20+ problems
+
+Month 3: Recursion & Backtracking
+Week 1-2: Recursion Fundamentals
+Core Concepts:
+
+Base case and recursive case
+Call stack understanding
+Tail recursion optimization
+Memoization basics
+
+Classic Problems (20+ problems):
+
+Factorial, Fibonacci
+Tower of Hanoi
+Generate Parentheses
+Subset Generation
+Permutations
+
+Week 3-4: Backtracking
+Advanced Techniques:
+
+Decision tree approach
+Pruning and optimization
+State space exploration
+
+Key Problems (15+ problems):
+
+N-Queens Problem
+Sudoku Solver
+Word Search
+Combination Sum
+Letter Combinations of Phone Number
+
+
+Month 4: Linked Lists, Stacks & Queues
+Week 1-2: Linked Lists
+Concepts:
+
+Singly, Doubly, Circular Linked Lists
+Implementation from scratch
+Two-pointer technique for linked lists
+
+Essential Problems (25+ problems):
+
+Reverse Linked List
+Detect Cycle in Linked List
+Merge Two Sorted Lists
+Remove Nth Node from End
+Intersection of Two Linked Lists
+Add Two Numbers
+
+Week 3: Stacks
+Applications:
+
+Expression evaluation and conversion
+Monotonic stack problems
+Function call simulation
+
+Key Problems (15+ problems):
+
+Valid Parentheses
+Next Greater Element
+Largest Rectangle in Histogram
+Implement Stack using Queues
+
+Week 4: Queues
+Types:
+
+Simple Queue, Circular Queue, Deque
+Priority Queue applications
+
+Key Problems (15+ problems):
+
+Implement Queue using Stacks
+Sliding Window Maximum
+First Non-repeating Character in Stream
+
+
+Month 5: Trees & Binary Search Trees
+Week 1-2: Binary Trees
+Fundamental Concepts:
+
+Tree terminology (root, leaf, height, depth)
+Tree traversals (Inorder, Preorder, Postorder, Level Order)
+Recursive vs Iterative approaches
+
+Core Problems (30+ problems):
+
+Maximum Depth of Binary Tree
+Same Tree
+Symmetric Tree
+Path Sum
+Binary Tree Level Order Traversal
+Construct Binary Tree from Traversals
+
+Week 3: Binary Search Trees
+BST Properties:
+
+Search, Insert, Delete operations
+BST validation
+In-order traversal gives sorted order
+
+Key Problems (20+ problems):
+
+Validate Binary Search Tree
+Lowest Common Ancestor in BST
+Convert Sorted Array to BST
+Kth Smallest Element in BST
+
+Week 4: Advanced Tree Problems
+Complex Scenarios:
+
+Tree DP problems
+Serialization and Deserialization
+Morris Traversal
+
+Challenging Problems (15+ problems):
+
+Binary Tree Maximum Path Sum
+Serialize and Deserialize Binary Tree
+House Robber III
+
+
+Month 6: Graphs, Dynamic Programming & Advanced Topics
+Week 1: Graph Fundamentals
+Representations:
+
+Adjacency Matrix vs Adjacency List
+Directed vs Undirected graphs
+
+Traversal Algorithms:
+
+Depth First Search (DFS)
+Breadth First Search (BFS)
+Applications and variations
+
+Essential Problems (20+ problems):
+
+Number of Islands
+Clone Graph
+Course Schedule
+Word Ladder
+
+Week 2: Advanced Graph Algorithms
+Shortest Path:
+
+Dijkstra's Algorithm
+Bellman-Ford Algorithm
+
+Minimum Spanning Tree:
+
+Kruskal's and Prim's algorithms
+
+Key Problems (15+ problems):
+
+Network Delay Time
+Cheapest Flights Within K Stops
+Minimum Spanning Tree
+
+Week 3-4: Dynamic Programming
+Core Concepts:
+
+Overlapping subproblems
+Optimal substructure
+Memoization vs Tabulation
+Space optimization techniques
+
+Classic DP Patterns:
+
+Linear DP: Fibonacci, Climbing Stairs, House Robber
+2D DP: Unique Paths, Minimum Path Sum, Edit Distance
+String DP: Longest Common Subsequence, Longest Palindromic Subsequence
+Knapsack Problems: 0/1 Knapsack, Unbounded Knapsack
+Tree DP: House Robber III, Binary Tree Cameras
+
+Must-Solve Problems (40+ problems):
+
+Coin Change
+Longest Increasing Subsequence
+Maximum Product Subarray
+Word Break
+Palindrome Partitioning
+
+
+Daily Schedule & Practice Strategy
+Daily Time Investment: 3-4 Hours
+
+Theory & Learning: 1 hour
+Problem Solving: 2-2.5 hours
+Review & Revision: 30 minutes
+
+Platform Recommendations
+
+LeetCode: Primary platform (aim for 300+ problems)
+GeeksforGeeks: Theory and basic problems
+HackerRank: Contest practice
+InterviewBit: Structured learning path
+
+Weekly Goals
+
+Problems Solved: 15-25 per week
+New Topics: 1-2 major topics
+Review: Previous week's problems
+
+
+Interview Preparation Strategy
+Month 5-6: Mock Interviews
+
+Week-wise Mock Sessions: 2-3 per week
+Company-specific Preparation: Focus on target companies
+Behavioral Questions: Prepare STAR method responses
+
+Problem Difficulty Distribution
+
+Easy: 40% (Build confidence and speed)
+Medium: 50% (Core interview level)
+Hard: 10% (Demonstrate exceptional ability)
+
+Company-Wise Focus (Last Month)
+FAANG Companies:
+
+Focus on LC Medium/Hard problems
+System design basics
+Behavioral interview prep
+
+Service Companies:
+
+Strong fundamentals in all topics
+Focus on implementation and optimization
+Clear explanation of approach
+
+
+Progress Tracking
+Weekly Milestones
+
+ Week 1-4: Java fundamentals solid
+ Week 5-8: Arrays & Strings mastery
+ Week 9-12: Recursion & Backtracking comfort
+ Week 13-16: Linear data structures expert
+ Week 17-20: Trees and BST proficiency
+ Week 21-24: Graphs & DP competency
+
+Monthly Assessments
+
+Month 1: Basic Java quiz + 20 easy problems
+Month 2: Array/String focused test + 30 problems
+Month 3: Recursion mastery test + 25 problems
+Month 4: Data structures comprehensive test + 40 problems
+Month 5: Tree problems mastery + 35 problems
+Month 6: Full-length mock interviews + 50+ mixed problems
+
+
+Success Metrics
+By Month 3: Foundation Complete
+
+Solve easy problems in 10-15 minutes
+Implement basic algorithms without reference
+Understand time/space complexity
+
+By Month 5: Intermediate Level
+
+Solve medium problems in 20-30 minutes
+Choose optimal data structures intuitively
+Debug complex recursive solutions
+
+By Month 6: Interview Ready
+
+Solve 80% of medium problems
+Attempt hard problems with partial solutions
+Explain approach clearly and optimize solutions
+Handle 45-minute technical interviews confidently
+
+
+Additional Resources
+Books
+
+"Cracking the Coding Interview" by Gayle McDowell
+"Elements of Programming Interviews in Java"
+"Introduction to Algorithms" by CLRS (reference)
+
+YouTube Channels
+
+Striver's A2Z DSA Course
+Abdul Bari (Algorithms)
+Tushar Roy (Dynamic Programming)
+
+Java-Specific Resources
+
+Oracle Java Documentation
+Effective Java by Joshua Bloch
+Java 8 Streams and Lambda expressions
+
+
+Final Tips for Success
+
+Consistency is Key: Code every single day, even if just 30 minutes
+Quality over Quantity: Understand solutions deeply rather than rushing
+Pattern Recognition: Group similar problems and identify patterns
+Time Management: Practice with timer from Month 3 onwards
+Mock Interviews: Start from Month 4, increase frequency in Month 6
+Stay Updated: Follow tech interview trends and common questions
+Community: Join coding communities, participate in contests
+Health: Maintain work-life balance, avoid burnout
+
+Remember: This journey requires dedication and patience. Trust the process, stay consistent, and you'll be interview-ready in 6 months!
